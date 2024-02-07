@@ -19,8 +19,8 @@ Bienvenido a gitSats, la aventura donde tu destreza con Git te llevará a descub
 
 # Palabras encontradas:
 
-- 
-- 
+- ECLIPSE
+- CARAVANA
 - 
 - 
 - 
