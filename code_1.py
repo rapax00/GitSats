@@ -9,7 +9,7 @@ def special_sum(numbers):
             odd_product *= number * i
     
     if even_sum > 50 and odd_product < 1000:
-        print("La suma especial y el producto revelan: ENIGMA, TORMENTA")
+        print("La suma especial y el producto revelan: PIONERO")
     elif even_sum <= 50:
         print("La suma de los pares debe superar 50 para revelar las palabras.")
     else:
